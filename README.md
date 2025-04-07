@@ -8,6 +8,7 @@ The Decentralized Healthcare Credentialing System provides a transparent, immuta
 
 ## Features
 
+
 - **Provider Identity Management**: Secure digital identities for healthcare practitioners
 - **Qualification Verification**: Immutable record of medical degrees and training
 - **License Status Tracking**: Real-time monitoring of professional license status
